@@ -115,7 +115,7 @@ Antes de realizar o commit ou submeter o projeto para repositórios públicos:
 
 1. **Clonar o repositório:**
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
+   git clone <URL_DESSE_REPOSITORIO>
    cd arreda-main
    ```
 
