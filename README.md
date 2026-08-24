@@ -2,6 +2,14 @@
 
 O **Arreda** é uma plataforma web moderna e responsiva voltada para a busca, anúncios e reservas de imóveis por temporada. O sistema conecta proprietários que desejam anunciar seus imóveis a clientes que buscam opções de acomodação, integrando autenticação segura, gestão de reservas, calendários de disponibilidade e pagamentos online.
 
+<img width="853" height="1844" alt="arredalist" src="https://github.com/user-attachments/assets/300a709f-9aa0-45bd-bc78-2b6594b07179" />
+<img width="853" height="1844" alt="arredamobile" src="https://github.com/user-attachments/assets/c76a124f-e508-459c-af3e-0253ca96ff66" />
+<img width="1920" height="3478" alt="webarreda" src="https://github.com/user-attachments/assets/5f96dba2-c3a2-4851-b313-a68dc2a3bfc4" />
+<img width="1920" height="1747" alt="arredaweb" src="https://github.com/user-attachments/assets/164b8945-4d7d-4e96-ba59-fcc5a06302e5" />
+
+veja um video do projeto aqui: https://youtu.be/__2yBNOP9a8
+
+
 ---
 
 ## Sumário
